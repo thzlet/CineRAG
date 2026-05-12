@@ -8,3 +8,5 @@ pypdf
 python-dotenv
 tiktoken
 langchain-text-splitters
+groq
+langchain-groq
