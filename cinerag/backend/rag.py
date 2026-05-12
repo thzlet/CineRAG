@@ -31,7 +31,7 @@ def load_rag_chain():
     retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
 
     llm = ChatGroq(
-        model_name="llama3-8b-8192",
+        model_name="llama-3.3-70b-versatile",
         temperature=0.3
     )
 
