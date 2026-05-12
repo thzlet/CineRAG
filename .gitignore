@@ -6,3 +6,4 @@ chroma_db/
 node_modules/
 dist/
 .DS_Store
+chroma_db/
