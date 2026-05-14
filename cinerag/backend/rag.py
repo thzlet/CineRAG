@@ -28,7 +28,7 @@ def load_rag_chain():
         persist_directory=CHROMA_PATH,
         embedding_function=embeddings
     )
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 6})
 
     llm = ChatGroq(
         model_name="llama-3.3-70b-versatile",
