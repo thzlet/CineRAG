@@ -1,52 +1,52 @@
 # CineRAG — AI Cinema Expert Agent
 
-A RAG (Retrieval-Augmented Generation) agent specialized in cinema.
-Ask deep questions about films, directors, screenplays, and critiques
-based on your own document collection.
+> Ask anything about films, directors and screenplays. CineRAG searches your documents and answers with depth.
 
-## 💡 What it does
+<img width="934" height="836" alt="image" src="https://github.com/user-attachments/assets/b8138672-7a8b-4429-8d0f-65078df97332" />
 
-- Ingests screenplays, reviews, and articles about films
-- Generates semantic embeddings and stores them in a vector database
-- Answers complex questions grounded in your documents
+## Example questions
 
-> "What philosophical themes does Kubrick explore?"
-> "Compare the narrative structure of Pulp Fiction and Memento."
+- _"What philosophical themes does Kubrick explore in his films?"_
+- _"Compare the narrative structure of Pulp Fiction and Memento"_
+- _"Which directors influenced the visual style of Drive?"_
 
-## Tech Stack
+## Stack
 
 | Layer | Technology |
 |-------|-----------|
 | Embeddings | sentence-transformers (local, free) |
 | Vector Store | ChromaDB |
-| LLM | Groq (LLaMA 3) |
-| Backend | FastAPI |
-| Frontend | React + TypeScript |
+| LLM | LLaMA 3.3 via Groq |
+| Backend | FastAPI + Python |
+| Frontend | React + TypeScript + Vite |
 
-## Getting Started
+## How to run
 
+### Backend
 ```bash
-# Install dependencies
+cd backend
 pip install -r requirements.txt
-
-# Add your Groq API key
-echo "GROQ_API_KEY=your_key" > .env
-
-# Ingest documents
-cd backend && python ingest.py
-
-# Run the RAG pipeline
-python rag.py
+python ingest.py   # ingest documents
+uvicorn main:app --reload
 ```
 
-## Project Structure
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Access `http://localhost:5173`
+
+## Structure
 
 ```
 cinerag/
 ├── backend/
-│   ├── ingest.py   # Document ingestion + chunking
-│   ├── rag.py      # RAG pipeline
+│   ├── ingest.py   # Ingestion + chunking + embeddings
+│   ├── rag.py      # RAG pipeline with LangChain
 │   └── main.py     # FastAPI server
-├── docs/           # Your cinema documents
+├── docs/           # Ingested cinema documents
 └── frontend/       # React interface
 ```
