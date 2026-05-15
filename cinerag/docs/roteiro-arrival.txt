@@ -1,1 +1,87 @@
-O roteiro do filme A Chegada (2016), escrito por Eric Heisserer e baseado no conto "História da Sua Vida" de Ted Chiang, foca na linguista Dra. Louise Banks (Amy Adams) tentando decifrar a língua de extraterrestres que pousaram na Terra. Sua estrutura é não linear, espelhando a percepção temporal circular dos alienígenas (Heptapods), onde passado, presente e futuro se entrelaçam.  Originalmente, o presente dos Heptapods seria um manual para construção de naves, mas foi mudado para o aprendizado da linguagem, influenciado pela temática de Interestelar.
+Título: A Chegada (Arrival)
+Diretor: Denis Villeneuve
+Roteiro: Eric Heisserer
+Baseado em: "Story of Your Life" de Ted Chiang
+Ano: 2016
+Gênero: Ficção Científica, Drama, Thriller
+
+---
+
+SINOPSE
+
+Doze naves alienígenas pousam simultaneamente em pontos distribuídos pelo globo. A linguista Louise Banks (Amy Adams) é recrutada pelo exército americano para tentar estabelecer comunicação com os extraterrestres — chamados de heptápodes — dentro da nave que pousou em Montana. Com o físico Ian Donnelly (Jeremy Renner), Louise desenvolve progressivamente uma compreensão da linguagem alien: uma escrita circular, não-linear, que não possui início nem fim. À medida que sua fluência na língua cresce, Louise experimenta visões de uma filha que nunca teve — ou que ainda não terá. O filme culmina em uma revelação sobre a natureza do tempo, da linguagem e da escolha que reconstitui retroativamente tudo o que foi mostrado antes.
+
+---
+
+TEMAS CENTRAIS
+
+Linguagem e Percepção
+O filme é construído sobre a hipótese de Sapir-Whorf: a ideia de que a língua que falamos estrutura a forma como percebemos o mundo. A linguagem dos heptápodes é não-linear porque eles experimentam o tempo de forma não-linear — e ao aprendê-la, Louise passa a compartilhar essa percepção. Villeneuve leva a sério a ficção científica como especulação filosófica genuína.
+
+Tempo Não-Linear e Livre Arbítrio
+Se Louise sabe o que vai acontecer — incluindo a morte da filha — e ainda assim escolhe ter essa filha, o que isso significa para o livre arbítrio? O filme não resolve a questão: ele a coloca com precisão máxima. A escolha de Louise não é apesar do conhecimento do futuro, mas através dele. Saber não é sinônimo de poder mudar — e ainda assim, para Louise, saber é suficiente para dizer sim.
+
+Luto Antecipado
+A revelação de que as "memórias" de Louise são visões do futuro transforma retroativamente o filme em uma meditação sobre o luto. Louise não está relembrando: está prevendo. E escolhe o amor mesmo sabendo a dor que virá. É um dos gestos filosóficos mais corajosos do cinema de ficção científica recente.
+
+Cooperação vs. Medo
+A narrativa política do filme — governos que ameaçam atacar as naves por incompreensão e paranoia — é um comentário direto sobre como o medo do desconhecido frequentemente supera a vontade de compreender. Louise representa a postura oposta: paciência, curiosidade, disposição para ser transformada pelo contato.
+
+---
+
+LINGUAGEM CINEMATOGRÁFICA
+
+O Design dos Heptápodes e sua Língua
+A equipe de design trabalhou com linguistas reais para criar uma língua alien visualmente coerente. Os semasiogramas circulares dos heptápodes — chamados de "logogramas" no filme — são belos e perturbadores, com uma complexidade que parece genuinamente não-humana. O trabalho de design é inseparável da credibilidade filosófica do roteiro.
+
+A Nave como Espaço
+O interior da nave é vertical: os humanos sobem em uma câmara de gravidade invertida para alcançar a superfície onde os heptápodes aparecem. A desorientação espacial é intencional — dentro da nave, as categorias de cima e baixo não funcionam, assim como dentro da língua alien as categorias de passado e futuro não funcionam.
+
+Fotografia e Paleta
+Bradford Young fotografa o filme em tons frios e dessaturados que evitam o espetáculo visual típico do gênero. A nave não é neon e metálico — é pedra opaca e neblina. O alienígena não é ameaçador nem sedutor: é absolutamente outro.
+
+Montagem e a Revelação
+O editor Joe Walker estrutura o filme de forma que as cenas com a filha de Louise pareçam claramente flashbacks — convenção estabelecida pela linguagem cinematográfica que o espectador aceita automaticamente. A revelação de que são flashforwards funciona porque Villeneuve e Walker usam a própria linguagem do cinema (a convenção do flashback) como o véu a ser retirado.
+
+Trilha Sonora de Jóhann Jóhannsson
+A trilha do compositor islandês Jóhann Jóhannsson é um dos últimos trabalhos antes de sua morte em 2018. Os temas principais são construídos sobre frequências graves e texturas orgânicas que criam uma sensação de presença estranha sem recorrer ao clichê do ominoso. A música para os heptápodes combina sons de baleia, trombone processado e síntese granular.
+
+---
+
+ANÁLISE DE PERSONAGENS
+
+Louise Banks (Amy Adams)
+Adams entrega uma performance de inteligência emocional rara. Louise é competente sem ser invulnerável, científica sem ser fria. Sua disposição para se aproximar dos heptápodes sem traje de proteção — escolha que choca os militares — é o gesto que define o personagem: a comunicação exige presença, não distância. Amy Adams foi inexplicavelmente ignorada pela Academia, recebendo zero indicações ao Oscar pela atuação.
+
+Ian Donnelly (Jeremy Renner)
+O personagem mais leve do filme, funcionando como contraponto à intensidade de Louise. A linha que ele diz no final — "Qual é a sua história?" — ganha significado inteiramente diferente após a revelação sobre o tempo. Renner usa a economia de expressão com eficiência.
+
+O General Shang
+Personagem secundário com função narrativa crucial: é para ele que Louise liga no clímax, usando informação do futuro para evitar uma guerra. A cena demonstra que a linguagem — e portanto a compreensão — pode substituir a força militar.
+
+---
+
+ADAPTAÇÃO E FIDELIDADE À FONTE
+
+O conto original de Ted Chiang, "Story of Your Life" (1998), é considerado um dos melhores contos de ficção científica da história. O roteiro de Eric Heisserer mantém o núcleo filosófico do conto mas adiciona a dimensão política/militar que falta no original — necessária para estruturar um longa de 116 minutos com stakes externos além do interior de Louise.
+
+A decisão de Villeneuve de abrir o filme com as cenas da filha — antes de qualquer contexto — é uma adição em relação ao conto e é o que torna a revelação final tão eficaz.
+
+---
+
+LEGADO
+
+Arrival renovou o interesse no subgênero de ficção científica filosófica — aquele que prioriza ideias sobre ação — após anos de domínio do espetáculo blockbuster. O filme, junto com Ex Machina e Annihilation, criou um espaço para a FC adulta no mainstream dos anos 2010.
+
+Recebeu oito indicações ao Oscar, ganhando em Melhor Edição de Som.
+
+---
+
+FICHA TÉCNICA RESUMIDA
+
+Duração: 116 minutos
+Fotografia: Bradford Young
+Música: Jóhann Jóhannsson
+Edição: Joe Walker
+Produção: FilmNation Entertainment / Lava Bear Films
+Distribuição: Paramount Pictures
