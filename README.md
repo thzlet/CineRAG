@@ -1,12 +1,6 @@
-# CineRAG — AI Cinema Expert Agent
+# CineRAG: AI Cinema Expert Agent <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/f1cbbf62-eab3-42b0-8352-a6f68cdc4892" />
 
 > Ask anything about films, directors and screenplays. CineRAG searches your documents and answers with depth.
-
-## Example questions
-
-- _"Compare the narrative structure of Pulp Fiction and Memento"_
-- _"Which directors influenced the visual style of Drive?"_
-
 ---
 
 ## How RAG Works
